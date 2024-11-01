@@ -1,0 +1,62 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/who-stick-it\n"
+"POT-Creation-Date: 2015-02-27 18:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-06-11 11:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: template/tblbords.php:42
+msgid "- Choose the type of item to cover: a class or ID ."
+msgstr "- Choissisez le type d'élément à viser : une class ou un ID."
+
+#: template/tblbords.php:43
+msgid ""
+"- Indicate the distance in pixels between your class / ID and the top of the "
+"page when the user going scroller menu will be locked at the distance you "
+"have indicated ."
+msgstr ""
+"- Indiquer la distance en pixel entre votre class/ID et le haut de la page, "
+"quand l'utilisateur vas scroller le menu restera bloqué à la distance que "
+"vous aurez indiqué."
+
+#: template/tblbords.php:47
+msgid "Type"
+msgstr "Type"
+
+#: template/tblbords.php:48 template/tblbords.php:63
+msgid "Name of your class or ID"
+msgstr "Nom de votre class ou ID"
+
+#: template/tblbords.php:49
+msgid "Pixel space with the top of the page"
+msgstr "Espace en pixel avec le haut de la page"
+
+#: template/tblbords.php:50
+msgid "Edit / Delete"
+msgstr "Edition / Suppression"
+
+#: template/tblbords.php:66
+msgid "Pixel size"
+msgstr "Taille en pixel"
+
+#: template/tblbords.php:69
+msgid "Add On"
+msgstr "Ajouter"
+
+#: template/tblbords.php:100
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+#: template/tblbords.php:54
+msgid "If a class or ID is present do not enable the sticky"
+msgstr "Si une class ou un ID est présent ne pas afficher le stkicky"
